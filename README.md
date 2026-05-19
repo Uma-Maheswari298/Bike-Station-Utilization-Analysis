@@ -61,7 +61,8 @@ Power BI dashboard for bike station analytics and visualization.
  - Proper data cleaning and modeling improved reporting accuracy and visualization quality
 
 ## Dadhboard Image
-   <img width="878" height="491" alt="Final Dashboard" src="https://github.com/user-attachments/assets/881811ec-ed09-469c-8c54-c200a7e4e19a" />
+   <img width="765" height="436" alt="Dashboard" src="https://github.com/user-attachments/assets/d3fda78d-8b6f-4988-802e-b4d4b5e6a2d2" />
+
 
 ## Challenges Faced
  - Missing values in dataset
